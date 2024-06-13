@@ -36,7 +36,7 @@ contract MyToken {
 }
 
 ```
-The full program can accessed in the .sol file that is included in this repository
+The full program can accessed in the .sol file that is included in this repository. (file is named: Buenaventura_myToken.sol)
 
 To compile the code, navigate to the "Solidity Compiler" tab in the left-hand side of the sidebar. Ensure the "Compiler" version is set to "0.8.18", and then click the "Compile Name_myToken.sol" button.
 
@@ -46,6 +46,8 @@ After the contract is deployed, you can communicate with it by calling the speci
 
 ## Authors
 
+Metacrafter Student Adam
+[@Adam Lee B. Buenaventura](www.linkedin.com/in/adam-buenaventura)
 
 ## License
 
