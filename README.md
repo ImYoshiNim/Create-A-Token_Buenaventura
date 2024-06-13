@@ -47,7 +47,7 @@ After the contract is deployed, you can communicate with it by calling the speci
 ## Authors
 
 Metacrafter Student Adam
-[@Adam Lee B. Buenaventura](www.linkedin.com/in/adam-buenaventura)
+LinkedIn: www.linkedin.com/in/adam-buenaventura.
 
 ## License
 
